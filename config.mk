@@ -11,5 +11,6 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     MiuiCamera \
     MiuiExtraPhoto \
+    MiuiGallery \
     MiuiScanner \
     miuires
